@@ -31,7 +31,7 @@
 ***
 # Credits
 
-> LITTLE BEARZ
+> **LITTLE BEARZ**
  
 <br>
 
