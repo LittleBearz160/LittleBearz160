@@ -1,4 +1,4 @@
-**[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Chào%2C+Tôi+là+Bearz+!;Hãy+xem+qua+GITHUB+của+tôi+!)](https://github.com/LittleBearz160)**
+**[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=53&duration=3000&width=930&height=100&lines=Ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Bearz+!;H%C3%A3y+xem+qua+GITHUB+c%E1%BB%A7a+t%C3%B4i+!)](https://github.com/LittleBearz160)**
 
 ***
 
