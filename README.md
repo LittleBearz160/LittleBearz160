@@ -32,8 +32,6 @@
 # Credits
 
 > **LITTLE BEARZ**
- 
-<br>
 
 ***
 
