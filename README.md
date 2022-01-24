@@ -19,11 +19,12 @@
 
 # THÔNG TIN LIÊN HỆ:
 
-[**FACEBOOK BÙI XUÂN LÂM**](https://www.facebook.com/lil.bearz.zz/)
+>[**FACEBOOK**](https://www.facebook.com/lil.bearz.zz/)
 
+</BR>
 
+>[**GITHUB**](https://github.com/LittleBearz160/LittleBearz160)
 
-[**FACEBOOK NGÔ ĐỨC DUY**](https://www.facebook.com/duynguu.0907/)
 ***
 # Credits
 
