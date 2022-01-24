@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Bearz+!;Welcome+to+my+Github+!)](https://github.com/LittleBearz160)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Hi%2C+I'm+Bearz+!;Welcome+to+my+Github+!;Let+see+my+Project+!)](https://github.com/LittleBearz160)
 
 # **BEARZ PROJECT**
 
