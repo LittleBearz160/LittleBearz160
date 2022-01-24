@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Chào%2C+Tôi+là+Bearz+!;Hãy+xem+qua+Project+của+tôi+!)](https://github.com/LittleBearz160)
-
-# **BEARZ PROJECT**
+**[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&vCenter=true&height=40&lines=Chào%2C+Tôi+là+Bearz+!;Hãy+xem+qua+Project+của+tôi+!)](https://github.com/LittleBearz160)**
 
 ***
 
