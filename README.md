@@ -20,7 +20,7 @@
 
 </BR>
 
-[**SERVER DISCORD**](https://discord.gg/little-bearz)
+>[**SERVER DISCORD**](https://discord.gg/little-bearz)
 
 </BR>
 
