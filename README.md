@@ -2,18 +2,11 @@
 
 # **BEARZ PROJECT**
 
-#### Dựa trên *MIRAI PROJECT*
-
-
 ***
 
 <div align="center" style"border-radius:15px">
   <img src="https://media.discordapp.net/attachments/919968565606637688/935178148524478494/PicsArt_01-22-11.15.16.jpg?width=1025&height=379" style"width: 100%;border-radius:15px">
 </div>
-
-***
-
-### [**SERVER DISCORD NHẬN HỖ TRỢ**](https://discord.gg/little-bearz)
 
 ***
 
@@ -25,10 +18,17 @@
 
 >[**GITHUB**](https://github.com/LittleBearz160/LittleBearz160)
 
+</BR>
+
+[**SERVER DISCORD**](https://discord.gg/little-bearz)
+
+</BR>
+
 ***
 # Credits
 
-> Nếu sử dụng code Bot, hãy giữ nguyên credit mirai project và các procoder!
+> LITTLE BEARZ
+ 
 <br>
 
 ***
