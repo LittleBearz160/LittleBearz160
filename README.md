@@ -12,15 +12,19 @@
 
 >[**FACEBOOK**](https://www.facebook.com/bearz.project)
 
-</BR>
+</br>
+
+>[**TWITTER**](https://twitter.com/Bearz160)
+
+</br>
 
 >[**GITHUB**](https://github.com/LittleBearz160/LittleBearz160)
 
-</BR>
+</br>
 
 >[**SERVER DISCORD**](https://discord.gg/little-bearz)
 
-</BR>
+</br>
 
 >[**EMAIL: bearz.project@gmail.com**]()
 
