@@ -10,7 +10,7 @@
 
 # THÔNG TIN LIÊN HỆ:
 
->[**FACEBOOK**](https://www.facebook.com/lil.bearz.zz/)
+>[**FACEBOOK**](https://www.facebook.com/bearz.project)
 
 </BR>
 
@@ -21,6 +21,8 @@
 >[**SERVER DISCORD**](https://discord.gg/little-bearz)
 
 </BR>
+
+>[**EMAIL: bearz.project@gmail.com**]()
 
 ***
 # Credits
