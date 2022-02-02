@@ -10,23 +10,13 @@
 
 # THÔNG TIN LIÊN HỆ:
 
->[**FACEBOOK**](https://www.facebook.com/bearz.project)
-
-</br>
-
->[**TWITTER**](https://twitter.com/Bearz160)
-
-</br>
-
->[**GITHUB**](https://github.com/LittleBearz160/LittleBearz160)
-
-</br>
-
->[**SERVER DISCORD**](https://discord.gg/little-bearz)
-
-</br>
-
->[**EMAIL: bearz.project@gmail.com**]()
+<p align="center">
+&nbsp; <a href="https://twitter.com/Bearz160" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="100" /></a>  
+&nbsp; <a href="https://www.instagram.com/__laamddaayyy" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a>  
+&nbsp; <a href="https://github.com/LittleBearz160" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://www.facebook.com/bearz.project" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="mailto:bearz.project@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+</p>
 
 ***
 # Credits
