@@ -43,7 +43,7 @@
 
 ***
 
-![Arya Soni github activity graph](https://activity-graph.herokuapp.com/graph?username=LittleBearz160&theme=react-dark)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=LittleBearz160&theme=react-dark)
 
 ***
 
