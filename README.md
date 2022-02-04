@@ -13,7 +13,7 @@
 
 # 💻 GITHUB STATS
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LittleBearz160&include_all_commits=false&count_private=true&show_icons=true&custom_title=Little%20Bearz&line_height=20&title_color=fd0808&icon_color=cb0202&text_color=D3D3D3&bg_color=0,000000,650101&border_color=fd1212&border_radious=50&hide=issues,contribs" alt = "Github Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LittleBearz160&include_all_commits=true&count_private=true&show_icons=true&custom_title=Little%20Bearz&line_height=20&title_color=fd0808&icon_color=cb0202&text_color=D3D3D3&bg_color=0,000000,650101&border_color=fd1212&border_radious=50&hide=issues,contribs" alt = "Github Stats"></p>
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com/?user=LittleBearz160&theme=blood&date_format=j%2Fn%5B%2FY%5D&background=000000&sideNums=D3D3D3&dates=DD1D1D&fire=00FFAB&border=DD0000&stroke=DD0000&ring=DD0C00&currStreakNums=DD0000&currStreakLabel=D3D3D3&sideLabels=D3D3D3" alt = "Github Streak"></p>
 
 ***
