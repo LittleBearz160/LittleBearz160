@@ -33,7 +33,7 @@
 
 ***
 
-# 🤝🏻 THÔNG TIN LIÊN HỆ:
+# 🤝🏻 THÔNG TIN LIÊN HỆ
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/Bearz160" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/100/000000/twitter-circled.png" width="100" /></a>
