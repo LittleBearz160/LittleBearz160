@@ -44,6 +44,5 @@
 
 ***
 
-# ![github activity graph](https://activity-graph.herokuapp.com/graph?username=LittleBearz160&theme=react-dark)
 
 #  <p align="center"><a href="https://github.com/LittleBearz160" target="_blank" rel="noopener noreferrer"><img  alt="pic" height="200" style="border-radius:1000px;" src="https://github.com/LittleBearz160/LittleBearz160/blob/output/github-contribution-grid-snake.svg"></a></p>
